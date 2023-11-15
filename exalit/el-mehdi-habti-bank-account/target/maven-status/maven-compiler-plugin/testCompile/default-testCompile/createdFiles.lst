@@ -1,0 +1,4 @@
+com/example/elmehdihabtibankaccount/contoller/AccountRessourceTest.class
+com/example/elmehdihabtibankaccount/domain/service/AccountServiceImplTest.class
+com/example/elmehdihabtibankaccount/infra/driven/AccountAdapterImplTest.class
+com/example/elmehdihabtibankaccount/infra/driven/TransactionAdapterImplTest.class
